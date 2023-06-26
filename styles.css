@@ -1,0 +1,19 @@
+h1 {
+   color: #46484c;
+   text-align: center;
+ } 
+
+button {
+   color : #fff;
+   background-color: #025157;
+ }
+
+p {
+   color : #8b8b8bcc;
+   font-family: verdana;
+   font-size: 20px;
+}
+ 
+body {
+   background-color: #fffbf7;
+}
